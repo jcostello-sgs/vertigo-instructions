@@ -5,3 +5,4 @@ _A compact 11dof inertial datalogger with AHRS_
 Site map:
 * [Usage Instructions](usage.md)
 * [Hardware Information](hardware.md)
+* [Serial Numbers](serial.md)
