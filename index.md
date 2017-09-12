@@ -27,4 +27,4 @@ Grammar School](http://www.suttongrammar.sutton.sch.uk) wit support from [The
 ERA Foundation](https://www.erafoundation.org) and the [Institute for Research
 in Schools](http://researchinschools.org).
 
-![sgs-logo](sgs-logo.jpg) ![era-logo](era-logo.png) ![iris-logo](iris-logo.jpg)
+![sgs-logo](sgs-logo.png) ![era-logo](eraf-logo.png) ![iris-logo](iris-logo.jpg)
