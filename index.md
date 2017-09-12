@@ -5,6 +5,7 @@ Contents:
 * [Setting up Vertigo](#building)
 * [Using Vertigo](#usage)
 * [Charging Vertigo](#charging)
+* [Troubleshooting](#troubleshooting)
 
 ## <a name="building"></a>Setting up Vertigo
 
@@ -36,6 +37,11 @@ your Vertigo soon.
 is ready. LED2 flashes fast whilst Vertigo is searching for a GPS lock.
 
 ![Ready](ready.gif)
+
+If Vertigo does not boot, but instead shows the following LED sequence, the
+battery is low. Please [charge Vertigo](#charging).
+
+![Low battery](lowbatt.gif)
 
 ### Beginning Logging
 
@@ -75,3 +81,18 @@ the blue LEDs.
 4. When the green CHARGE LED is extinguished, the battery is charged.
 
 ![Charge](charge.gif)
+
+If Vertigo's battery is too low to operate, upon power up, Vertigo will not
+boot. Instead, it will show the low battery warning:
+
+![Low battery](lowbatt.gif)
+
+## <a name="troubleshooting"></a>Troubleshooting Vertigo
+
+Vertigo flashes LED1 and LED4 alternately to indicate an error sequence, as
+shown below. If this happens, make sure of the following:
+
+* The SD card is formatted and inserted fully into the slot
+* The Vertigo sensor board is in the correct orientation and fully seated
+
+![Error LED sequence](errorseq.gif)
