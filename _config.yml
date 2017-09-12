@@ -1,1 +1,5 @@
+name: VertigoIMU Instructions
+description: Usage and Troubleshooting instructions for the VertigoIMU datalogger.
+author: Jon Sowman
+author_email: jon+vertigo@jonsowman.com
 theme: jekyll-theme-minimal
