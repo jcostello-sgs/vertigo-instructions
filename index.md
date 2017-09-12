@@ -20,6 +20,13 @@ When you receive Vertigo, your package should contain the following items:
 
 ## <a name="usage"></a>Using Vertigo
 
+### Powering-on Vertigo
+
+1. Make sure the battery is connected and the microSD card inserted.
+2. Slide the power switch towards the centre of the unit to power up.
+
+![Power Up](powerup.gif)
+
 ## <a name="charging"></a>Charging Vertigo
 
 Charging Vertigo is super easy since the battery charger is built in! You just
