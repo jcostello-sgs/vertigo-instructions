@@ -52,6 +52,16 @@ complete. Vertigo can now be powered off, or another logging cycle can begin.
 
 ![Stop logging](stoplogging.gif)
 
+### Remove SD card
+
+The microSD card connector is a push-push connector. Gently push the card in to
+release it, then remove it from the slot.
+
+You can now insert the microSD card into the SD card adapter in order to
+transfer the data to a computer for analysis.
+
+![Remove SD card](removesd.gif)
+
 ## <a name="charging"></a>Charging Vertigo
 
 Charging Vertigo is super easy since the battery charger is built in! You just
