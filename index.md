@@ -96,3 +96,12 @@ shown below. If this happens, make sure of the following:
 * The Vertigo sensor board is in the correct orientation and fully seated
 
 ![Error LED sequence](errorseq.gif)
+
+If you still have problems, please get in touch. Please include the contents of
+the `vtg_info.txt` file that Vertigo creates on the microSD card. An example is
+shown below:
+
+    SERIAL=1303
+    FIRMWARE=8576751
+    MBED-LIBRARY-VERSION=134
+    MBED-OS=5.3.3
