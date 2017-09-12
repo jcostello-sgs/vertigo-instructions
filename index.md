@@ -24,18 +24,18 @@ Putting everything together is really easy. Just follow these steps.
 1. Locate the MBED processor on top of the Vertigo sensor board. **Ensure
 correct orientation!**. The correct orientation is shown here:
 
-        ![Insertion](config-insert.gif)
+    ![Insertion](config-insert.gif)
 
 2. Insert the microSD card by gently inserting it into the slot until it
 clicks, then release.
 
-        ![SD card insertion](config-sd.gif)
+    ![SD card insertion](config-sd.gif)
 
 3. Lastly, attach the battery connector. This is intentionally difficult to
 insert to minimise the chance of accidental detachment. You won't need to
 remove this again since Vertigo contains an onboard battery charger.
 
-        ![Battery insertion](config-batt.gif)
+    ![Battery insertion](config-batt.gif)
 
 ## <a name="usage"></a>Using Vertigo
 
