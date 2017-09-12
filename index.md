@@ -37,6 +37,21 @@ is ready. LED2 flashes fast whilst Vertigo is searching for a GPS lock.
 
 ![Ready](ready.gif)
 
+### Beginning Logging
+
+When Vertigo is ready, press the LOG button to begin logging. Note that LED4
+lights up solidly indicating that Vertigo is logging.
+
+![Start Logging](startlogging.gif)
+
+### Stopping Logging
+
+During logging, press the LOG button again to stop. Note that LED4 will flash
+fast whilst the data is written to the SD card, and will extinguish once
+complete. Vertigo can now be powered off, or another logging cycle can begin.
+
+![Stop logging](stoplogging.gif)
+
 ## <a name="charging"></a>Charging Vertigo
 
 Charging Vertigo is super easy since the battery charger is built in! You just
