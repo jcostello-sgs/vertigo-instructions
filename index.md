@@ -23,7 +23,7 @@ For those interested in more information about VertigoIMU:
 ## About VertigoIMU
 
 VertigoIMU is was designed by [Jon Sowman](http://www.jonsowman.com) and [Sutton
-Grammar School](http://www.suttongrammar.sutton.sch.uk) wit support from [The
+Grammar School](http://www.suttongrammar.sutton.sch.uk) with support from [The
 ERA Foundation](https://www.erafoundation.org) and the [Institute for Research
 in Schools](http://researchinschools.org).
 
