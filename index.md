@@ -22,7 +22,8 @@ When you receive Vertigo, your package should contain the following items:
 Putting everything together is really easy. Just follow these steps.
 
 1. Locate the MBED processor on top of the Vertigo sensor board. **Ensure
-correct orientation!**. The correct orientation is shown here:
+correct orientation!** The MBED USB connector should be at the same end as the
+battery connector, LOG button, and power switch on the Vertigo sensor board, as shown here:
 
     ![Insertion](config-insert.gif)
 
