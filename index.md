@@ -2,6 +2,16 @@
 
 ## <a name="building"></a>Setting up Vertigo
 
+When you receive Vertigo, your package should contain the following items:
+
+![Components](components.jpg)
+
+A. SD to microSD adapter
+B. microSD card
+C. Battery
+D. MBED processor
+E. Vertigo sensor board
+
 ## <a name="usage"></a>Using Vertigo
 
 ## <a name="charging"></a>Charging Vertigo
