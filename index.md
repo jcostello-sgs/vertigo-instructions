@@ -1,5 +1,11 @@
 # Vertigo Instructions
 
+Contents:
+
+* [Setting up Vertigo](#building)
+* [Using Vertigo](#usage)
+* [Charging Vertigo](#charging)
+
 ## <a name="building"></a>Setting up Vertigo
 
 When you receive Vertigo, your package should contain the following items:
