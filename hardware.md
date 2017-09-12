@@ -1,5 +1,5 @@
 # VertigoIMU Hardware Information
 
-//A compact 11dof inertial datalogger with AHRS//
+_A compact 11dof inertial datalogger with AHRS_
 
 ![Sensor board detail](sensor-components.jpg)

@@ -1,6 +1,6 @@
 # VertigoIMU
 
-//A compact 11dof inertial datalogger with AHRS//
+_A compact 11dof inertial datalogger with AHRS_
 
 Site map:
 * [Usage Instructions](usage.md)

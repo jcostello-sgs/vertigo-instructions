@@ -1,4 +1,6 @@
-## Instructions
+# VertigoIMU Usage Instructions
+
+_A compact 11dof inertial datalogger with AHRS_
 
 Contents:
 
