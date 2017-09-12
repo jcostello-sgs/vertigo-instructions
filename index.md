@@ -42,7 +42,7 @@ remove this again since Vertigo contains an onboard battery charger.
 
 Your constructed Vertigo looks like this:
 
-    ![Complete Vertigo](labels.jpg)
+![Complete Vertigo](labels.jpg)
 
 ### Powering-on Vertigo
 
