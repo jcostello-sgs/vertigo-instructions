@@ -6,11 +6,11 @@ When you receive Vertigo, your package should contain the following items:
 
 ![Components](components.jpg)
 
-A. SD to microSD adapter
-B. microSD card
-C. Battery
-D. MBED processor
-E. Vertigo sensor board
+1. SD to microSD adapter
+2. microSD card
+3. Battery
+4. MBED processor
+5. Vertigo sensor board
 
 ## <a name="usage"></a>Using Vertigo
 
