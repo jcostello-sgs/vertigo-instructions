@@ -24,8 +24,18 @@ When you receive Vertigo, your package should contain the following items:
 
 1. Make sure the battery is connected and the microSD card inserted.
 2. Slide the power switch towards the centre of the unit to power up.
+3. The LEDs flash twice indicating battery level. 
 
 ![Power Up](powerup.gif)
+
+**Note:** The LEDs will flash twice indicating the battery level. If 4 LEDs
+flash, the battery is fully charged. If only 1 or 2 flash, you should charge
+your Vertigo soon.
+
+4. LED1 begins to flash slowly indicating Vertigo has passed its self-test and
+is ready. LED2 flashes fast whilst Vertigo is searching for a GPS lock.
+
+![Ready](ready.gif)
 
 ## <a name="charging"></a>Charging Vertigo
 
