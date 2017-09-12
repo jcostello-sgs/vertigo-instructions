@@ -2,6 +2,8 @@
 
 _A compact 11dof inertial datalogger with AHRS_
 
+[Home](index.md)
+
 Contents:
 
 * [Setting up Vertigo](#building)

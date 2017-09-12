@@ -2,6 +2,8 @@
 
 _A compact 11dof inertial datalogger with AHRS_
 
+[Home](index.md)
+
 ![Sensor board detail](sensor-components.jpg)
 
 ## Test Points
@@ -30,7 +32,6 @@ ongoing and is extinguished at charge termination.
 
 Vertigo is fully reverse polarity protected. Q1 is a P-channel MOSFET which is
 arranged to provide this protection.
-
 
 ## Power Supplies
 

@@ -1,5 +1,9 @@
 # VertigoIMU Serial Numbers
 
+_A compact 11dof inertial datalogger with AHRS_
+
+[Home](index.md)
+
 ### Vertigo Classic
 
 * 1101: [OBSOLETE] Completed rev 1.1 board with bluetooth
