@@ -1,3 +1,5 @@
+![logo](logo.jpg)
+
 # VertigoIMU
 
 _A compact 11dof inertial datalogger with AHRS_
