@@ -22,6 +22,13 @@ it's best to power down Vertigo when you're not using it.
 
 ## Using Vertigo
 
+### Do I have to use the GPS? ###
+
+No, absolutely not. Just begin data logging without attaching the GPS antenna.
+Ignore the GPS readings in the log file (they will be all zero).
+
+## Common Problems 
+
 ### When I power up Vertigo, all 4 LEDs flash once per second. ### 
 
 This is the low battery warning. Please [charge Vertigo](usage.md).
