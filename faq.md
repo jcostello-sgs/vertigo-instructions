@@ -22,8 +22,7 @@ it's best to power down Vertigo when you're not using it.
 
 ## Using Vertigo
 
-### When I power up Vertigo, all 4 LEDs flash once per second. Nothing else
-works ###
+### When I power up Vertigo, all 4 LEDs flash once per second. ### 
 
 This is the low battery warning. Please [charge Vertigo](usage.md).
 
