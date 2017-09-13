@@ -39,7 +39,8 @@ GPS lock within 3 minutes.
 
 ### How many log files can I create on the SD card? ###
 
-A maximum of 256 log files are supported (from vtg_log0.csv to vtg_log255.csv).
+A maximum of 256 log files are supported (from `vtg_log0.csv` to
+`vtg_log255.csv`).
 If this is exceeded, the oldest will be overwritten first.
 
 ## Common Problems 
