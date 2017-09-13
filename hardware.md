@@ -4,9 +4,19 @@ _A compact 11dof inertial datalogger with AHRS_
 
 [Home](index.md)
 
+On this page:
+* [Components on VertigoIMU](#diag)
+* [Test Points](#tp)
+* [Battery Charging](#charge)
+* [Reverse Polarity Protection](#rp)
+* [Power Supplies](#psu)
+* [Hardware Changelog](#hwchangelog)
+
+## <a name="diag"></a>Components
+
 ![Sensor board detail](sensor-components.jpg)
 
-## Test Points
+## <a name="tp"></a>Test Points
 
 Test points are provided on Vertigo for hardware integrity testing and QC. They
 are labelled TPx on the silkscreen and are described below.
@@ -20,7 +30,7 @@ are labelled TPx on the silkscreen and are described below.
 7. 5V switched into MBED Vin
 8. "Power good" output from boost converter
 
-## LiPo Charging
+## <a name="charge"></a>Battery Charging
 
 Current: R4 sets the LiPo charge current, see the MCP73831 datasheet for more
 information. Use 10kR for 100mA or 2kR for 500mA.
@@ -28,12 +38,12 @@ information. Use 10kR for 100mA or 2kR for 500mA.
 An LED near the battery connector, labelled `CHARGE`, is lit when charging is
 ongoing and is extinguished at charge termination.
 
-## Reverse polarity protection
+## <a name="rp"></a>Reverse polarity protection
 
 Vertigo is fully reverse polarity protected. Q1 is a P-channel MOSFET which is
 arranged to provide this protection.
 
-## Power Supplies
+## <a name="psu"></a>Power Supplies
 
 Vertigo is powered by a single (1S) 3.7V LiPo cell. The MBED LPC1768 must be
 supplied with a voltage on its VIN pin at a minimum of 4.5V. A TPS61252 boost
@@ -48,7 +58,7 @@ which keeps the regulator enabled. An N-channel MOSFET is connected between
 plugged into USB, the TPS regulator is disabled and Vertigo is powered solely
 through the USB connection to allow the battery to be charged.
 
-## Hardware Changelog
+## <a name="hwchangelog"></a>Hardware Changelog
 
 * 1.0: 
     * Initial version.
