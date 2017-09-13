@@ -1,5 +1,3 @@
-![logo](logo.jpg)
-
 # VertigoIMU
 
 _A compact 11dof inertial datalogger with AHRS_
@@ -21,8 +19,6 @@ For those interested in more information about VertigoIMU:
 
 * [Hardware Information](hardware.md) - further hardware information
 * [Serial Numbers](serial.md) - a list of serial numbers of past and present VertigoIMU units, as well as a hardware changelog.
-
-![Vertigo complete](vertigo-complete.jpg "A complete VertigoIMU unit")
 
 ## About VertigoIMU
 
