@@ -33,8 +33,10 @@ _A compact 11dof inertial datalogger with AHRS_
 
 ## Hardware Changelog
 
-* 1.0: Initial version. MPU-9150 footprint used instead of MPU-9250 -
-* immediately retired.
+* 1.0: 
+    * Initial version.
+    * MPU-9150 footprint used instead of MPU-9250
+    * Immediately retired.
 * 1.1: Dropped helical onboard GPS antenna in favour of SMA with circuitry for
 * active antenna. Added reverse polarity protection.
 * 1.2: Dropped bluetooth. Added user push-button. Dropped extra mini-USB
