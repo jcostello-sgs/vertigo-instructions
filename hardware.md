@@ -47,3 +47,27 @@ which keeps the regulator enabled. An N-channel MOSFET is connected between
 `EN` and `GND`, with its gate tied to `VUSB`. This means that when the MBED is
 plugged into USB, the TPS regulator is disabled and Vertigo is powered solely
 through the USB connection to allow the battery to be charged.
+
+## Hardware Changelog
+
+* 1.0: 
+    * Initial version.
+    * MPU-9150 footprint used instead of MPU-9250
+    * Immediately retired.
+* 1.1:
+    * Dropped helical onboard GPS antenna in favour of SMA with circuitry for active antenna.
+    * Added reverse polarity protection.
+* 1.2: 
+    * Dropped bluetooth.
+    * Added user push-button.
+    * Dropped extra mini-USB (always use MBED one).
+    * Added CHARGE LED for LiPo charger & disconnected CHARGE_STAT from MBED.
+    * Removed duplicated PROG resistor (R4/R5).
+* 1.3:
+    * Baro pressure moved to separate SPI periph.
+    * Fixed Vusb detect for disabling boost reg.
+    * Added Test Points.
+    * Added RESET line for GPS.
+    * Added SHDN line for MPL115.
+    * Added EEPROM (I2C).
+    * Switched to TPS61251 boost conv.
